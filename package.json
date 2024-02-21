@@ -1,0 +1,13 @@
+{
+  "name": "tg_ang_test_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
